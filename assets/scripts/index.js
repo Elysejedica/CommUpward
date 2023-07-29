@@ -487,3 +487,4 @@ function googleTranslateElementInit(){
   // menu.addEventListener("click", () => {
   //     console.log("Hello")
   // });
+  
