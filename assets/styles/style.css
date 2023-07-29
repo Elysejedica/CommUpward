@@ -367,6 +367,10 @@ main {
   color: #ffffff;
   margin-bottom: 200px;
 }
+.premierBtn a{
+  text-decoration: none;
+  color: #fff;
+}
 
 .premierBtn:hover {
   background: none;
