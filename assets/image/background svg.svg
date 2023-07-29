@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="BACKGROUND" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 750 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient-3);
+        opacity: .5;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-2);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="694" cy="410.38" fx="694" fy="410.38" r="805.57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#181a3b"/>
+      <stop offset=".59" stop-color="#0c0c21"/>
+      <stop offset="1" stop-color="#060614"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="753.07" cy="251.99" fx="753.07" fy="251.99" r="603.06" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0098fe" stop-opacity=".9"/>
+      <stop offset=".01" stop-color="#0092f6" stop-opacity=".87"/>
+      <stop offset=".09" stop-color="#0371c2" stop-opacity=".67"/>
+      <stop offset=".17" stop-color="#055394" stop-opacity=".49"/>
+      <stop offset=".26" stop-color="#073a6d" stop-opacity=".34"/>
+      <stop offset=".35" stop-color="#09254e" stop-opacity=".22"/>
+      <stop offset=".44" stop-color="#0a1635" stop-opacity=".12"/>
+      <stop offset=".54" stop-color="#0b0a24" stop-opacity=".05"/>
+      <stop offset=".64" stop-color="#0b041a" stop-opacity=".01"/>
+      <stop offset=".77" stop-color="#0c0217" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="627.76" cy="1271.14" fx="627.76" fy="1271.14" r="603.06" gradientTransform="translate(624.69 1519.16) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff0004"/>
+      <stop offset=".13" stop-color="#c80012" stop-opacity=".76"/>
+      <stop offset=".27" stop-color="#94001f" stop-opacity=".53"/>
+      <stop offset=".4" stop-color="#6a002a" stop-opacity=".34"/>
+      <stop offset=".53" stop-color="#490032" stop-opacity=".19"/>
+      <stop offset=".64" stop-color="#310038" stop-opacity=".09"/>
+      <stop offset=".75" stop-color="#23003c" stop-opacity=".02"/>
+      <stop offset=".83" stop-color="#1e003e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect class="cls-2" y="0" width="750" height="500"/>
+  <rect class="cls-3" width="750" height="500"/>
+  <rect class="cls-1" width="750" height="500"/>
+</svg>
