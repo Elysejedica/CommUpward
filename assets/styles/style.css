@@ -1161,9 +1161,9 @@ footer .row h4 {
     font-size: 7px;
   }
 }
-@media (max-width:350px){
+@media (max-width:500px){
   .logos {
-    width: 55px;
+    width: 45px;
   }
   footer .col-3 h3{
     font-size: 10px;
@@ -1171,10 +1171,30 @@ footer .row h4 {
   footer .col-3 p,
   footer ul li a{
     font-size: 7px;
+    margin: 4px;
   }
  .social-icons a{
     font-size: 10px;
   }
+  footer .row h4 {
+    font-size: 7px;   
+    margin: 4px;
+ }
+ footer form{
+  margin-bottom: 20px;
+ }
+ footer .col-3 {
+  padding: 0;
+ }
+ #Action .col-4{
+  padding: 5px;
+ }
+ .main2 #Action{
+  margin: 0 25px;
+ }
+ .main2 .row{
+  margin: 0 5px;
+ }
 }
 
 
