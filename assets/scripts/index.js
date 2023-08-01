@@ -479,12 +479,4 @@ function googleTranslateElementInit(){
 }
   // fin translate
 
-  // const icons = document.getElementById("icons");
-  // const menu = document.querySelector("#menu");
-
-  // console.log(menu)
-  
-  // menu.addEventListener("click", () => {
-  //     console.log("Hello")
-  // });
-  
+ 
