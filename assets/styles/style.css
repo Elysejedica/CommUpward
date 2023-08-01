@@ -315,6 +315,7 @@ form .btn-Message:hover {
 
 section {
   /* background-color: #403060; */
+  margin-bottom: 40px;
   background-image: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.8) 100%);
   background-position: center center;
   background-repeat: no-repeat;
@@ -1196,8 +1197,3 @@ footer .row h4 {
   margin: 0 5px;
  }
 }
-
-
-/* meu hamberger */
-
-
