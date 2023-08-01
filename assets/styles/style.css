@@ -631,7 +631,7 @@ form button .bi-arrow-right-square:hover {
   border-radius: 50%;
   text-align: center;
   line-height: 40px;
-  font-size: 40px;
+  font-size: 30px;
   color: #ccc;
   margin-right: 15px;
   cursor: pointer;
@@ -1196,4 +1196,8 @@ footer .row h4 {
  .main2 .row{
   margin: 0 5px;
  }
+}
+
+.dropdown-menu{
+  background: #363636fe;
 }
